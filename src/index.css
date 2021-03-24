@@ -1,0 +1,17 @@
+:root{
+  --darkBlueEl:hsl(209, 23%, 22%);
+  --veryDarkBlueBck:hsl(207, 26%, 17%);
+  --veryDarkBlueLightText:hsl(200, 15%, 8%);
+  --darkGrayLightInput:hsl(0, 0%, 52%);
+  --veryLightGrayLightBck:hsl(0, 0%, 98%);
+  --whiteTextLightEl:hsl(0, 0%, 100%);
+
+  --homeTextSize:14px;
+  --detailedTextSize:16px;
+}
+
+
+body {
+  font-family:'Nunito Sans',sans-serif;
+  font-size:14px;
+}
